@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Tiệm Bánh Mây">
+  <rect width="48" height="48" rx="14" fill="#C97B6B"/>
+  <path d="M14.5 33.5c-4.4 0-8-3.6-8-8s3.6-8 8-8c.9 0 1.8.2 2.6.5C18.7 14.4 22.2 12 26.2 12c5.1 0 9.3 4.1 9.4 9.2 3.6.4 6.4 3.5 6.4 7.2 0 4-3.2 7.2-7.2 7.2H14.5z" fill="#FFF8F0"/>
+  <circle cx="19" cy="21.5" r="1.4" fill="#C97B6B" opacity=".55"/>
+  <circle cx="27" cy="19" r="1.1" fill="#C97B6B" opacity=".4"/>
+</svg>

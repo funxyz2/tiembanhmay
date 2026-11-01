@@ -1,0 +1,276 @@
+- generic [active] [ref=f17e1]:
+  - link "Bỏ qua đến nội dung chính" [ref=f17e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f17e3]:
+    - generic [ref=f17e4]:
+      - link "Tiệm Bánh Mây" [ref=f17e5] [cursor=pointer]:
+        - /url: "#top"
+      - link "Nhắn Zalo" [ref=f17e14] [cursor=pointer]:
+        - /url: https://zalo.me/0900000000
+  - navigation "Điều hướng nhanh" [ref=f17e361]:
+    - generic [ref=f17e362]:
+      - link "Bánh" [ref=f17e363] [cursor=pointer]:
+        - /url: "#banh"
+      - link "Giá" [ref=f17e364] [cursor=pointer]:
+        - /url: "#gia"
+      - link "Vì sao" [ref=f17e365] [cursor=pointer]:
+        - /url: "#vi-sao"
+      - link "Chuyện" [ref=f17e366] [cursor=pointer]:
+        - /url: "#cau-chuyen"
+      - link "Đánh giá" [ref=f17e367] [cursor=pointer]:
+        - /url: "#danh-gia"
+      - link "Hỏi đáp" [ref=f17e368] [cursor=pointer]:
+        - /url: "#hoi-dap"
+  - main [ref=f17e18]:
+    - region [ref=f17e19]:
+      - generic [ref=f17e20]:
+        - generic [ref=f17e21]:
+          - paragraph [ref=f17e22]: Bánh kem nhà làm · Đà Nẵng
+          - heading "Bánh kem nhà làm – ít ngọt, giao trong ngày" [level=1] [ref=f17e24]
+          - paragraph [ref=f17e25]: Đặt trước 24 giờ, giao tận nơi tại Đà Nẵng. Nguyên liệu thật, kem tươi.
+          - generic [ref=f17e26]:
+            - link "Đặt bánh qua Zalo" [ref=f17e27] [cursor=pointer]:
+              - /url: https://zalo.me/0900000000
+            - link "Xem 6 mẫu bánh" [ref=f17e31] [cursor=pointer]:
+              - /url: "#banh"
+        - generic [ref=f17e32]:
+          - figure [ref=f17e34]:
+            - img "Bánh kem macaron phủ kem hồng nhạt, trang trí macaron và chi tiết vàng" [ref=f17e35]
+          - generic [ref=f17e42]:
+            - strong [ref=f17e43]: Giao trong ngày
+            - generic [ref=f17e44]: Nội thành Đà Nẵng
+          - paragraph [ref=f17e45]:
+            - text: từ
+            - strong [ref=f17e46]: 280.000đ
+    - region "Cam kết của tiệm" [ref=f17e47]:
+      - generic [ref=f17e48]:
+        - paragraph [ref=f17e49]: Nguyên liệu thật
+        - paragraph [ref=f17e52]: Ít ngọt, dễ ăn
+        - paragraph [ref=f17e55]: Giao trong ngày
+        - paragraph [ref=f17e58]: Đặt qua Zalo
+    - region [ref=f17e61]:
+      - generic [ref=f17e62]:
+        - generic [ref=f17e63]:
+          - generic [ref=f17e64]:
+            - paragraph [ref=f17e65]: Menu
+            - heading "6 mẫu bánh bán chạy" [level=2] [ref=f17e66]
+          - paragraph [ref=f17e67]: Ảnh minh hoạ · Đặt trước 24 giờ
+        - generic [ref=f17e68]:
+          - article [ref=f17e69]:
+            - generic [ref=f17e70]:
+              - img "Bánh kem dâu tây cắt lát, lớp kem tươi và dâu đỏ" [ref=f17e71]
+              - generic [ref=f17e72]: Bán chạy nhất
+            - generic [ref=f17e73]:
+              - paragraph [ref=f17e74]: Bán chạy · Bánh chủ lực của Mây
+              - heading "Bánh kem dâu tây" [level=3] [ref=f17e75]
+              - paragraph [ref=f17e76]: Kem tươi, dâu tây và cốt vani mềm. Vị ngọt nhẹ, hợp tiệc sinh nhật của cả người lớn và trẻ nhỏ.
+              - list [ref=f17e77]:
+                - listitem [ref=f17e78]: 16cm · 6–8 người
+                - listitem [ref=f17e79]: Kem tươi
+                - listitem [ref=f17e80]: Ít ngọt
+              - generic [ref=f17e81]:
+                - paragraph [ref=f17e82]: từ 280.000đ
+                - link "Đặt qua Zalo" [ref=f17e83] [cursor=pointer]:
+                  - /url: https://zalo.me/0900000000
+          - article [ref=f17e86]:
+            - img "Bánh kem socola phủ ganache, trang trí trái mọng và topper Happy Birthday" [ref=f17e88]
+            - generic [ref=f17e89]:
+              - heading "Bánh kem socola" [level=3] [ref=f17e90]
+              - paragraph [ref=f17e91]: Cốt socola đậm, ganache mịn.
+              - generic [ref=f17e92]:
+                - paragraph [ref=f17e93]: từ 280.000đ
+                - link "Đặt bánh kem socola qua Zalo" [ref=f17e94] [cursor=pointer]:
+                  - /url: https://zalo.me/0900000000
+                  - text: Đặt
+          - article [ref=f17e97]:
+            - img "Bánh kem matcha phủ kem xanh, rắc matcha và đậu đỏ" [ref=f17e99]
+            - generic [ref=f17e100]:
+              - heading "Bánh kem matcha" [level=3] [ref=f17e101]
+              - paragraph [ref=f17e102]: Matcha Uji, đậu đỏ, kem tươi.
+              - generic [ref=f17e103]:
+                - paragraph [ref=f17e104]: từ 280.000đ
+                - link "Đặt bánh kem matcha qua Zalo" [ref=f17e105] [cursor=pointer]:
+                  - /url: https://zalo.me/0900000000
+                  - text: Đặt
+          - article [ref=f17e108]:
+            - img "Bánh kem trái cây phủ kem tươi, dâu, việt quất và cam" [ref=f17e110]
+            - generic [ref=f17e111]:
+              - heading "Bánh kem trái cây" [level=3] [ref=f17e112]
+              - paragraph [ref=f17e113]: Kem vani, dâu, việt quất, cam.
+              - generic [ref=f17e114]:
+                - paragraph [ref=f17e115]: từ 280.000đ
+                - link "Đặt bánh kem trái cây qua Zalo" [ref=f17e116] [cursor=pointer]:
+                  - /url: https://zalo.me/0900000000
+                  - text: Đặt
+          - article [ref=f17e119]:
+            - img "Bánh kem macaron màu hồng phủ kem phô mai, trang trí macaron và nhũ vàng" [ref=f17e121]
+            - generic [ref=f17e122]:
+              - heading "Bánh kem macaron" [level=3] [ref=f17e123]
+              - paragraph [ref=f17e124]: Kem phô mai nhẹ, macaron hồng.
+              - generic [ref=f17e125]:
+                - paragraph [ref=f17e126]: từ 280.000đ
+                - link "Đặt bánh kem macaron qua Zalo" [ref=f17e127] [cursor=pointer]:
+                  - /url: https://zalo.me/0900000000
+                  - text: Đặt
+          - article [ref=f17e130]:
+            - img "Bánh kem vani phủ kem bơ trắng, trang trí kem bắt bông và hạt màu" [ref=f17e132]
+            - generic [ref=f17e133]:
+              - heading "Bánh kem vani" [level=3] [ref=f17e134]
+              - paragraph [ref=f17e135]: Cốt vani mềm, kem bơ ít ngọt.
+              - generic [ref=f17e136]:
+                - paragraph [ref=f17e137]: từ 280.000đ
+                - link "Đặt bánh kem vani qua Zalo" [ref=f17e138] [cursor=pointer]:
+                  - /url: https://zalo.me/0900000000
+                  - text: Đặt
+          - link "Chưa thấy mẫu hợp? Nhắn Zalo để đặt thiết kế riêng theo ý bạn. Nhắn tiệm" [ref=f17e141] [cursor=pointer]:
+            - /url: https://zalo.me/0900000000
+            - generic [ref=f17e145]: Chưa thấy mẫu hợp?
+            - generic [ref=f17e146]: Nhắn Zalo để đặt thiết kế riêng theo ý bạn.
+            - generic [ref=f17e147]: Nhắn tiệm
+        - region [ref=f17e150]:
+          - generic [ref=f17e151]:
+            - generic [ref=f17e152]:
+              - paragraph [ref=f17e153]: Bảng giá
+              - heading "Chọn size theo số người" [level=3] [ref=f17e154]
+            - paragraph [ref=f17e155]: Giá áp dụng cho các mẫu trong menu.
+          - generic [ref=f17e156]:
+            - generic [ref=f17e157]:
+              - paragraph [ref=f17e158]: 16cm
+              - paragraph [ref=f17e159]: 6–8 người
+              - paragraph [ref=f17e160]: 280.000đ
+            - generic [ref=f17e161]:
+              - paragraph [ref=f17e162]: 20cm
+              - paragraph [ref=f17e163]: 10–12 người
+              - paragraph [ref=f17e164]: 380.000đ
+            - generic [ref=f17e165]:
+              - paragraph [ref=f17e166]: 24cm
+              - paragraph [ref=f17e167]: 15–20 người
+              - paragraph [ref=f17e168]: 480.000đ
+          - paragraph [ref=f17e169]:
+            - strong [ref=f17e170]: "Giao nội thành Đà Nẵng:"
+            - text: đồng giá 30.000đ, miễn phí cho đơn từ 700.000đ. Bánh thiết kế riêng hoặc số lượng lớn, nhắn Zalo để báo giá.
+    - region [ref=f17e171]:
+      - generic [ref=f17e172]:
+        - generic [ref=f17e173]:
+          - generic [ref=f17e174]:
+            - paragraph [ref=f17e175]: Vì sao chọn Mây
+            - heading "Bánh làm kỹ, giao đúng hẹn" [level=2] [ref=f17e176]
+          - paragraph [ref=f17e177]: Ba điều khách quay lại vì
+        - generic [ref=f17e178]:
+          - article [ref=f17e179]:
+            - heading "Nguyên liệu thật, ít ngọt" [level=3] [ref=f17e184]
+            - paragraph [ref=f17e185]: Kem tươi, bơ và trái cây thật. Giảm đường so với bánh thông thường, phù hợp cả người lớn tuổi và trẻ nhỏ.
+          - article [ref=f17e186]:
+            - heading "Giao trong ngày tại Đà Nẵng" [level=3] [ref=f17e192]
+            - paragraph [ref=f17e193]: Đặt trước 24 giờ, giao tận nơi các quận nội thành. Bánh được giữ lạnh trên đường và đóng hộp cẩn thận.
+          - article [ref=f17e194]:
+            - heading "Đặt qua Zalo, không cần app" [level=3] [ref=f17e198]
+            - paragraph [ref=f17e199]: Gửi ảnh mẫu, chốt mẫu và giờ giao ngay trong chat. Nhận bánh mới thanh toán, không đặt cọc lằng nhằng.
+    - region [ref=f17e200]:
+      - generic [ref=f17e201]:
+        - generic [ref=f17e202]:
+          - paragraph [ref=f17e203]: Chuyện của Mây
+          - blockquote [ref=f17e204]:
+            - paragraph [ref=f17e205]: “Mỗi đứa trẻ chỉ có một ngày sinh nhật trong năm. Mình muốn chiếc bánh trên bàn phải xứng đáng với ngày đó.”
+          - paragraph [ref=f17e206]:
+            - strong [ref=f17e207]: Anh Thông
+            - generic [ref=f17e208]: Người sáng lập Tiệm Bánh Mây
+        - generic [ref=f17e209]:
+          - heading "Từ chiếc bàn nhỏ đến sinh nhật của nhiều gia đình" [level=2] [ref=f17e210]
+          - paragraph [ref=f17e211]: Tiệm Bánh Mây bắt đầu từ một chiếc bàn nhỏ trong căn bếp gia đình, với anh Thông và vài khuôn bánh mượn của người quen. Xuất phát từ hai bàn tay trắng, anh hiểu một chiếc bánh sinh nhật không chỉ là món ăn — với nhiều đứa trẻ, đó là ngày duy nhất trong năm chúng được là nhân vật chính.
+          - paragraph [ref=f17e212]: Vì vậy, Mây làm bánh cho mọi gia đình, không phân biệt sinh nhật được tổ chức ở căn nhà nhỏ hay bữa tiệc lớn. Điều tiệm giữ lại là nguyên liệu thật, vị ngọt vừa phải và sự chăm chút như thể đó là sinh nhật của chính mình.
+          - paragraph [ref=f17e213]: "Mỗi chiếc bánh ra lò là một lời hẹn: ngày sinh nhật của bạn phải thật đáng nhớ."
+          - link "Xem các mẫu bánh" [ref=f17e214] [cursor=pointer]:
+            - /url: "#banh"
+    - region [ref=f17e217]:
+      - generic [ref=f17e218]:
+        - generic [ref=f17e219]:
+          - generic [ref=f17e220]:
+            - paragraph [ref=f17e221]: Đánh giá
+            - heading "Khách nói gì sau khi nhận bánh" [level=2] [ref=f17e222]
+          - paragraph [ref=f17e223]: Đánh giá mẫu · Hải Châu · Sơn Trà · Thanh Khê
+        - generic [ref=f17e224]:
+          - article [ref=f17e225]:
+            - img "5 trên 5 sao" [ref=f17e226]
+            - blockquote [ref=f17e237]:
+              - paragraph [ref=f17e238]: “Bé nhà mình 5 tuổi, mình đặt bánh dâu tây size 16cm cho tiệc ở nhà. Bánh không ngọt gắt, kem tươi ăn nhẹ nên bé ăn hết một miếng to mà không bị ngán. Đặt trước một ngày, tiệm giao đúng giờ mình hẹn, hộp bánh còn được giữ lạnh cẩn thận.”
+            - generic [ref=f17e239]:
+              - generic [aria-hidden] [ref=f17e240]: NA
+              - paragraph [ref=f17e241]:
+                - generic [ref=f17e242]: Chị Ngọc Anh
+                - generic [ref=f17e243]: Hải Châu
+          - article [ref=f17e244]:
+            - img "5 trên 5 sao" [ref=f17e245]
+            - blockquote [ref=f17e256]:
+              - paragraph [ref=f17e257]: “Công ty mình đặt bánh matcha 20cm cho buổi chia tay đồng nghiệp, ai cũng hỏi mua ở đâu. Matcha thơm, đậu đỏ vừa phải, cốt bánh mềm và không bị khô. Bạn nhân viên nhắn Zalo tư vấn size theo số người rất nhanh, còn gửi ảnh mẫu trước khi làm.”
+            - generic [ref=f17e258]:
+              - generic [aria-hidden] [ref=f17e259]: MT
+              - paragraph [ref=f17e260]:
+                - generic [ref=f17e261]: Anh Minh Tuấn
+                - generic [ref=f17e262]: Sơn Trà
+          - article [ref=f17e263]:
+            - img "5 trên 5 sao" [ref=f17e264]
+            - blockquote [ref=f17e275]:
+              - paragraph [ref=f17e276]: “Mình đặt bánh macaron cho kỷ niệm ngày cưới mà quên báo trước, may tiệm nhận kịp trong buổi chiều. Bánh lên hình đẹp, vị ngọt vừa, lớp kem phô mai không bị nặng. Giao tới đúng giờ, hộp buộc nơ gọn gàng nên mình rất yên tâm.”
+            - generic [ref=f17e277]:
+              - generic [aria-hidden] [ref=f17e278]: TH
+              - paragraph [ref=f17e279]:
+                - generic [ref=f17e280]: Chị Thu Hà
+                - generic [ref=f17e281]: Thanh Khê
+    - region [ref=f17e282]:
+      - generic [ref=f17e283]:
+        - generic [ref=f17e284]:
+          - paragraph [ref=f17e285]: Hỏi đáp
+          - heading "Trước khi đặt bánh" [level=2] [ref=f17e286]
+          - paragraph [ref=f17e287]: Chưa thấy câu trả lời mình cần? Nhắn Zalo, tiệm trả lời trong giờ mở cửa 8:00 – 20:00.
+          - link "Nhắn tiệm qua Zalo" [ref=f17e288] [cursor=pointer]:
+            - /url: https://zalo.me/0900000000
+        - generic [ref=f17e292]:
+          - group [ref=f17e293]:
+            - generic "Bánh có mấy size, giá bao nhiêu?" [ref=f17e294] [cursor=pointer]
+            - paragraph [ref=f17e297]: Bánh 16cm (6–8 người) 280.000đ, 20cm (10–12 người) 380.000đ, 24cm (15–20 người) 480.000đ. Giá áp dụng chung cho các mẫu trong menu, chưa gồm phí giao hàng.
+          - group [ref=f17e298]:
+            - generic "Đặt bánh trước bao lâu?" [ref=f17e299] [cursor=pointer]
+          - group [ref=f17e301]:
+            - generic "Phí giao hàng thế nào?" [ref=f17e302] [cursor=pointer]
+          - group [ref=f17e304]:
+            - generic "Có nhận làm bánh thiết kế riêng không?" [ref=f17e305] [cursor=pointer]
+          - group [ref=f17e307]:
+            - generic "Bánh có nguyên liệu gây dị ứng không?" [ref=f17e308] [cursor=pointer]
+          - group [ref=f17e310]:
+            - generic "Bảo quản bánh và dùng trong bao lâu?" [ref=f17e311] [cursor=pointer]
+          - group [ref=f17e313]:
+            - generic "Có được đổi trả không?" [ref=f17e314] [cursor=pointer]
+  - contentinfo [ref=f17e316]:
+    - generic [ref=f17e317]:
+      - generic [ref=f17e318]:
+        - link "Tiệm Bánh Mây" [ref=f17e319] [cursor=pointer]:
+          - /url: "#top"
+        - paragraph [ref=f17e328]: Bánh kem nhà làm, ít ngọt, giao trong ngày. Đặt trước 24 giờ để tiệm chuẩn bị chu đáo nhất.
+      - generic [ref=f17e329]:
+        - heading "Ghé tiệm" [level=2] [ref=f17e330]
+        - generic [ref=f17e331]: 24 Nguyễn Chí Thanh, P. Hải Châu 1, Q. Hải Châu, Đà Nẵng
+      - generic [ref=f17e332]:
+        - heading "Giờ mở cửa" [level=2] [ref=f17e333]
+        - paragraph [ref=f17e334]: 8:00 – 20:00Hằng ngày, kể cả cuối tuần
+      - generic [ref=f17e335]:
+        - heading "Kết nối" [level=2] [ref=f17e336]
+        - list [ref=f17e337]:
+          - listitem [ref=f17e338]:
+            - 'link "Zalo: 0900 000 000" [ref=f17e339] [cursor=pointer]':
+              - /url: https://zalo.me/0900000000
+          - listitem [ref=f17e342]:
+            - link "0900 000 000" [ref=f17e343] [cursor=pointer]:
+              - /url: tel:+84900000000
+          - listitem [ref=f17e346]:
+            - link "Facebook" [ref=f17e347] [cursor=pointer]:
+              - /url: https://www.facebook.com/tiembanhmay.danang
+    - generic [ref=f17e350]:
+      - paragraph [ref=f17e351]: © 2026 Tiệm Bánh Mây · Đà Nẵng
+      - paragraph [ref=f17e352]: Bản demo · Đánh giá, ảnh minh hoạ và thông tin liên hệ là nội dung mẫu, không phải thông tin thật của tiệm.
+  - generic [ref=f17e353]:
+    - paragraph [ref=f17e354]:
+      - strong [ref=f17e355]: Từ 280.000đ
+      - generic [ref=f17e356]: Giao trong ngày
+    - link "Đặt bánh qua Zalo" [ref=f17e357] [cursor=pointer]:
+      - /url: https://zalo.me/0900000000
